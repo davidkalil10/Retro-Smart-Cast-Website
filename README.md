@@ -1,6 +1,6 @@
 # 🎮 Retro Smart Cast Website
 
-A premium, high-performance landing page for **Retro Smart Cast**—the ultimate GBA, GBC, and GB emulator for Android and Meta Quest.
+A premium, high-performance landing page for **Retro Smart Cast**—the ultimate GBA, GBC, and GB emulator for Android.
 
 Built with a modern **glassmorphic** aesthetic, this website is designed to provide a sleek and professional introduction to the emulator's core features while maintaining high performance and responsiveness.
 
